@@ -1,0 +1,12 @@
+{
+    "name": "petrik/composer-1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Petrik\\Composer1\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.19"
+    }
+}
